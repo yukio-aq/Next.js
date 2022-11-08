@@ -1,10 +1,3 @@
-# 注意
-バージョンの差異をなくすためにNext.jsをインストールした状態でstartフォルダ内に格納しておきます。
-使用するためには```npm install```コマンドを実行してください。
-
-
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
