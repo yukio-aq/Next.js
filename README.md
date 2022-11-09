@@ -36,7 +36,7 @@ APIの作成（API Routes）<br>
 ページ遷移について<br>
 ・useRouter<br>
 ページ遷移を行うための値やメソッドを取得する際に利用<br>
-・<Link href><br>
+・ Link href <br>
 hrefに遷移先のURLを設定する<br>
 Linkがないと再レンダリングによってステートが保持されない<br>
 <br>
